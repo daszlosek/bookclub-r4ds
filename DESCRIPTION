@@ -30,6 +30,7 @@ Imports:
     nycflights13,
     patchwork,
     readxl,
+    styler,
     tidyverse,
     tufte,
     tvthemes,
